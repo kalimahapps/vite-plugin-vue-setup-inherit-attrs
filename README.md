@@ -1,5 +1,15 @@
 # vite-plugin-vue-setup-inherit-attrs
+[![npm](https://img.shields.io/npm/v/vite-plugin-vue-setup-inherit-attrs.svg)](https://www.npmjs.com/package/vite-plugin-vue-setup-inherit-attrs) 
+[![npm](https://img.shields.io/npm/dt/vite-plugin-vue-setup-inherit-attrs.svg)](https://www.npmjs.com/package/vite-plugin-vue-setup-inherit-attrs)
+[![license](https://img.shields.io/github/license/kalimah-apps/vite-plugin-vue-setup-inherit-attrs.svg)](LICENSE)
+![vue-3](https://img.shields.io/badge/vue-3-%2342b883)
+
 Add support for inheritAttrs in vue-setup using vite
+
+## Install
+```
+npm install vite-plugin-vue-setup-inherit-attrs -D
+```
 
 ## Usage
 In vite.config.ts import the plugin and add plugins array:
@@ -14,7 +24,7 @@ export default defineConfig({
 })
 ```
 
-In vue template add inherit-attrs="false":
+In vue template add `inherit-attrs="false"`:
 ```html
 <template>
   <div class="root-element">
@@ -32,3 +42,5 @@ In vue template add inherit-attrs="false":
 
 ## Config
 No config needed :)
+## License
+[MIT License](LICENSE)
