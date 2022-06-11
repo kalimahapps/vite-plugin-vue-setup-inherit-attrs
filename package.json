@@ -4,8 +4,7 @@
   "description": "Extending vue script setup syntactic sugar to support for inherit-attrs",
   "main": "dist/index.js",
   "scripts": {
-    "build": "tsc -p .",
-    "prepare": "npm build"
+    "build-plugin": "tsc -p ."
   },
   "files": [
     "dist"
