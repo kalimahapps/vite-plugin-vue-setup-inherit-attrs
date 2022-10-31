@@ -4,6 +4,8 @@
 [![license](https://img.shields.io/github/license/kalimah-apps/vite-plugin-vue-setup-inherit-attrs.svg)](LICENSE)
 ![vue-3](https://img.shields.io/badge/vue-3-%2342b883)
 
+![Twitter Follow](https://img.shields.io/twitter/follow/KalimahApps?style=for-the-badge)
+
 Add support for inheritAttrs in vue-setup using vite
 
 ## Install
@@ -42,5 +44,13 @@ In vue template add `inherit-attrs="false"`:
 
 ## Config
 No config needed :)
+
+## Other projects
+### [Vue Icons](https://www.npmjs.com/package/@kalimahapps/vue-icons)
+50,000+ SVG icons from popular icon sets that you can add seamlessly to your vue projects
+
+### [Vue Popper](https://www.npmjs.com/package/@kalimahapps/vue-popper)
+A Vue 3 component that uses popper.js to position elements
+
 ## License
 [MIT License](LICENSE)
