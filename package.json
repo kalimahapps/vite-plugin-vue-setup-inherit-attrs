@@ -1,7 +1,7 @@
 {
   "name": "vite-plugin-vue-setup-inherit-attrs",
-  "version": "1.0.2",
-  "description": "Extending vue script setup syntactic sugar to support for inherit-attrs",
+  "version": "1.0.3",
+  "description": "Extend vue script setup syntactic sugar to support inherit-attrs",
   "main": "dist/index.js",
   "scripts": {
     "build-plugin": "tsc -p ."

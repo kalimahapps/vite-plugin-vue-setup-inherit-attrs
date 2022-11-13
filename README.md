@@ -4,7 +4,7 @@
 [![license](https://img.shields.io/github/license/kalimah-apps/vite-plugin-vue-setup-inherit-attrs.svg)](LICENSE)
 ![vue-3](https://img.shields.io/badge/vue-3-%2342b883)
 
-![Twitter Follow](https://img.shields.io/twitter/follow/KalimahApps?style=for-the-badge)
+[![Twitter Follow](https://img.shields.io/twitter/follow/KalimahApps?style=for-the-badge)](https://twitter.com/KalimahApps)
 
 Add support for inheritAttrs in vue-setup using vite
 
