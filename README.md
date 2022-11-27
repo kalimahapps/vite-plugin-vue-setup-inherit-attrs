@@ -1,17 +1,42 @@
-# vite-plugin-vue-setup-inherit-attrs
-[![npm](https://img.shields.io/npm/v/vite-plugin-vue-setup-inherit-attrs.svg)](https://www.npmjs.com/package/vite-plugin-vue-setup-inherit-attrs) 
-[![npm](https://img.shields.io/npm/dt/vite-plugin-vue-setup-inherit-attrs.svg)](https://www.npmjs.com/package/vite-plugin-vue-setup-inherit-attrs)
-[![license](https://img.shields.io/github/license/kalimah-apps/vite-plugin-vue-setup-inherit-attrs.svg)](LICENSE)
-![vue-3](https://img.shields.io/badge/vue-3-%2342b883)
+<p align="center">
+<h1 align="center">vite-plugin-vue-setup-inherit-attrs</h1>
+</p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/KalimahApps?style=for-the-badge)](https://twitter.com/KalimahApps)
 
-Add support for inheritAttrs in vue-setup using vite
+<p align="center">
+<h3 align="center">Add support for inheritAttrs in vue-setup using vite</h3>
+<br>
+<br>
+</p>
+
+<p align="center">
+<a target="_blank" href="https://www.npmjs.com/package/vite-plugin-vue-setup-inherit-attrs">
+  <img src="https://img.shields.io/npm/v/vite-plugin-vue-setup-inherit-attrs.svg">
+</a>
+<a target="_blank" href="https://www.npmjs.com/package/vite-plugin-vue-setup-inherit-attrs">
+  <img src="https://img.shields.io/npm/dt/vite-plugin-vue-setup-inherit-attrs.svg">
+</a>
+<img src="https://img.shields.io/badge/vue-3-%2342b883">
+</a>
+<img src="https://img.shields.io/github/license/kalimah-apps/vite-plugin-vue-setup-inherit-attrs.svg">
+</p>
+
+<p align="center">
+<a target=_blank href="https://twitter.com/KalimahApps">
+  <img src="https://img.shields.io/twitter/follow/KalimahApps?style=for-the-badge">
+</a>
+</p>
+
+<br>
+<br>
 
 ## Install
 ```
 npm install vite-plugin-vue-setup-inherit-attrs -D
 ```
+
+<br>
+<br>
 
 ## Usage
 In vite.config.ts import the plugin and add plugins array:
@@ -42,15 +67,31 @@ In vue template add `inherit-attrs="false"`:
 ```
 
 
+<br>
+<br>
+
 ## Config
 No config needed :)
 
+<br>
+<br>
+
+## Change Log
+### 1.0.4
+- Moved to full ESM
+
+<br>
+<br>
+
 ## Other projects
 ### [Vue Icons](https://www.npmjs.com/package/@kalimahapps/vue-icons)
-50,000+ SVG icons from popular icon sets that you can add seamlessly to your vue projects
+55,000+ SVG icons from popular icon sets that you can add seamlessly to your vue projects
 
 ### [Vue Popper](https://www.npmjs.com/package/@kalimahapps/vue-popper)
-A Vue 3 component that uses popper.js to position elements
+A tooltip component for Vue 3 based on popper.js
+
+<br>
+<br>
 
 ## License
 [MIT License](LICENSE)
