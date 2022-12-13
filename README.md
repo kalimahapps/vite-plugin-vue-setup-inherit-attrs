@@ -90,6 +90,10 @@ No config needed :)
 ### [Vue Popper](https://www.npmjs.com/package/@kalimahapps/vue-popper)
 A tooltip component for Vue 3 based on popper.js
 
+### [KalimahApps Eslint Config](https://www.npmjs.com/package/@kalimahapps/eslint-config)
+Comprehensive eslint rules for vue projects with typescript
+
+
 <br>
 <br>
 
