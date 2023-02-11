@@ -1,6 +1,6 @@
 {
   "name": "vite-plugin-vue-setup-inherit-attrs",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Extend vue script setup syntactic sugar to support inherit-attrs",
   "main": "dist/index.mjs",
   "exports": {
@@ -22,9 +22,9 @@
     "inherit-attrs"
   ],
   "bugs": {
-    "url": "https://github.com/kalimah-apps/vite-plugin-vue-setup-inherit-attrs/issues"
+    "url": "https://github.com/kalimahapps/vite-plugin-vue-setup-inherit-attrs/issues"
   },
-  "homepage": "https://github.com/kalimah-apps/vite-plugin-vue-setup-inherit-attrs/tree/master/#readme",
+  "homepage": "https://github.com/kalimahapps/vite-plugin-vue-setup-inherit-attrs/tree/master/#readme",
   "author": "khr2003",
   "license": "MIT",
   "dependencies": {
