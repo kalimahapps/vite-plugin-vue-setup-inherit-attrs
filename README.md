@@ -30,6 +30,10 @@
 <br>
 <br>
 
+> [!WARNING] You don't need this plugin if you are using Vue 3.3+
+>
+> Use [defineOptions](https://vuejs.org/api/sfc-script-setup#defineoptions) instead.
+
 ## Install
 ```
 npm install vite-plugin-vue-setup-inherit-attrs -D
